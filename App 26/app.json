@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-26",
+    "slug": "snack-847c014c-412e-48cb-9373-0dcb9f2d6bbb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 26: App Conversor de Moedas (Real, Dólar, Euro e Bitcoin)\nDocumentação da API: https://docs.awesomeapi.com.br/api-de-moedas\n"
+  }
+}
