@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-19",
+    "slug": "snack-36e95ef4-2666-4af7-a729-394c12c4c7cc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 19: Conversor de Moedas utilizando Top Tab Navigator, com 3 menus, são eles: Real -> Dólar, \tReal -> Euro e Real -> BitCoin.\n\n"
+  }
+}
