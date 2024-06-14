@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-27",
+    "slug": "snack-aa6767b2-e929-491f-8092-c97b194c1d39",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 27: App de Cadastro de Tarefas\n\nCom objetivo de alterar o layout do app existente e garantir que esteja funcionando todas as operações (Incluir, Alterar, Excluir e Exibir).\n\n"
+  }
+}
