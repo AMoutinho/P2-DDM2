@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-14",
+    "slug": "snack-6cf1dd47-8824-410a-9dce-aedfe7710ed5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 14: Vagas de emprego de TI (com Scroll View e Stack Navigator)\nNa primeira página mostrar apenas o título da vaga e um botão “Saiba mais”. Ao clicar no botão, chamar uma segunda página para exibir novamente o título da vaga e as demais informações.\n\n"
+  }
+}
