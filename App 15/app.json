@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-15",
+    "slug": "snack-546ca4d4-d5d0-4da5-a720-5a498c817ac3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 15: Vagas de emprego de TI (com Flat List e Stack Navigator)\nNa primeira página mostrar apenas o título da vaga e um botão “Saiba mais”. Ao clicar no botão, chamar uma segunda página para exibir novamente o título da vaga e as demais informações.\n\n"
+  }
+}
