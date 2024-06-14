@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-13",
+    "slug": "snack-2ab83307-2973-4c29-9b71-be673864e466",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 13: Anúncios para venda de produtos (com Scroll View e Stack Navigator).\n\nNa primeira página mostrar apenas a foto, título do produto e um botão “Ver detalhes”. Ao clicar no botão, chamar uma segunda página para exibir novamente a foto do produto e as informações dele abaixo da foto.\n\n"
+  }
+}
