@@ -1,5 +1,5 @@
 
-# <p align=center><img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="40" width="65"/>DDMII - P2<img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="40" width="65"/></p>
+# <p align=center><img align="center" src="https://i.postimg.cc/wTgbTzNR/React-Native-Logo-Repositorio.png" height="40" width="50"/>DDMII - P2<img align="center" src="https://i.postimg.cc/wTgbTzNR/React-Native-Logo-Repositorio.png" height="40" width="50"/></p>
 
 <p>Repositório contendo os 15 app's solicitados na disciplina de Desenvolvimento para Dispositivos Móveis II, como forma avaliativa da P2 do 2º Bimestre de 2024. Além do projeto pokedex, parte integrante do repositório do 1º Bimestre, mas que encontrasse neste para fins de cumprimento de solicitação.</p>
 <br>
